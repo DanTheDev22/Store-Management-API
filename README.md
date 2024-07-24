@@ -8,7 +8,7 @@
 https://github.com/DanTheDev22/Store-Management-API.git
 ```
 
-**2. Create Mysql database**
+**2. Create PostGreSQL database**
 ```bash
 create database storedb
 ```
